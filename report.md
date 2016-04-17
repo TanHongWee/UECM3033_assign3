@@ -55,15 +55,15 @@ Put your graphs here and explain.
 
 When the y0 is 0.1 , y1 is 1.0 .
 
-[Population vs Time_1.png](Population vs Time_1.png)
+[Population.vs.Time_1.png](Population.vs.Time_1.png)
 
-[Predator vs Prey_1.png](Predator vs Prey_1.png)
+[Predator.vs.Prey_1.png](Predator.vs.Prey_1.png)
 
 When the y0 is 0.11 , y1 is 1.0
 
-[Population vs Time_2.png](Population vs Time_2.png)
+[Population.vs.Time_2.png](Population.vs.Time_2.png)
 
-[Predator vs Prey_2.png](Predator vs Prey_2.png)
+[Predator.vs.Prey_2.png](Predator.vs.Prey_2.png)
 
 From the graphs shown above, there were just a small different in the ouput when there is 
 a changed in the initial condition y0 . Then ,when the number of prey appeared to be 
